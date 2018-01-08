@@ -1,10 +1,15 @@
+### Modified
+Does not return app size in iOS to speed up execution!
+
+Original: https://github.com/sqli/sqli-cordova-disk-space-plugin
+
 # Disk Space Plugin
 This plugin allows to get information about disk space in Android / iOS / Windows 10 platforms.
 
 ## Installation
 To use this plugin in a project, you have to do:
 
-	cordova plugin add https://github.com/sqli/sqli-cordova-disk-space-plugin.git
+	cordova plugin add https://github.com/KPalvolg/sqli-cordova-disk-space-plugin.git
 
 Add your platforms targeted:
 
